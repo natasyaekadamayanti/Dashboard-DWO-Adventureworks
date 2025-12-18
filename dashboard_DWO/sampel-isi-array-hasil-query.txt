@@ -1,0 +1,50 @@
+
+
+//ARRAY CHART PERTAMA
+
+Array ( [0] => Array ( 
+			[0] => Array ( [0] => Action [1] => 2 [2] => 55.80 ) 
+			[1] => Array ( [0] => Action [1] => 5 [2] => 371.13 ) 
+			[2] => Array ( [0] => Action [1] => 6 [2] => 681.40 ) 
+			[3] => Array ( [0] => Action [1] => 7 [2] => 1804.36 ) 
+			[4] => Array ( [0] => Action [1] => 8 [2] => 1463.16 ) 
+			[5] => Array ( [0] => Animation [1] => 2 [2] => 66.75 ) 
+			[6] => Array ( [0] => Animation [1] => 5 [2] => 289.26 ) 
+			[7] => Array ( [0] => Animation [1] => 6 [2] => 691.26 ) 
+			[8] => Array ( [0] => Animation [1] => 7 [2] => 1954.11 ) 
+			[9] => Array ( [0] => Animation [1] => 8 [2] => 1654.92 ) 
+			[10] => Array ( [0] => Children [1] => 2 [2] => 15.94 ) 
+			[11] => Array ( [0] => Children [1] => 5 [2] => 288.29 ) 
+			[12] => Array ( [0] => Children [1] => 6 [2] => 495.70 ) 
+			[13] => Array ( [0] => Children [1] => 7 [2] => 1539.94 ) 
+			[14] => Array ( [0] => Children [1] => 8 [2] => 1315.68 ) 
+			[15] => Array ( [0] => Classics [1] => 2 [2] => 24.89 ) 
+			[16] => Array ( [0] => Classics [1] => 5 [2] => 227.38 ) 
+			[17] => Array ( [0] => Classics [1] => 6 [2] => 518.64 ) 
+			[18] => Array ( [0] => Classics [1] => 7 [2] => 1497.16 ) 
+			[19] => Array ( [0] => Classics [1] => 8 [2] => 1371.52 ) 
+			[20] => Array ( [0] => Comedy [1] => 2 [2] => 25.90 ) 
+			[21] => Array ( [0] => Comedy [1] => 5 [2] => 295.28 ) 
+			[22] => Array ( [0] => Comedy [1] => 6 [2] => 639.65 ) 
+			[23] => Array ( [0] => Comedy [1] => 7 [2] => 1829.17 ) 
+			[24] => Array ( [0] => Comedy [1] => 8 [2] => 1593.58 ) 
+			[25] => Array ( [0] => Documentary [1] => 2 [2] => 7.96 ) 
+			[26] => Array ( [0] => Documentary [1] => 5 [2] => 353.14 ) 
+			[27] => Array ( [0] => Documentary [1] => 6 [2] => 612.40 ) 
+			[28] => Array ( [0] => Documentary [1] => 7 [2] => 1726.71 ) 
+			[29] => Array ( [0] => Documentary [1] => 8 [2] => 1517.31 ) 
+			[30] => Array ( [0] => Drama [1] => 2 [2] => 29.92 ) 
+
+			)
+		)
+
+
+//ARRAY CHART KEDUA
+
+array[0][0][0]
+
+Array ( [0] => Array ( 
+	[0] => Array ( [0] => Action [1] => 2 [2] => 55.80 ) 
+	[1] => Array ( [0] => Action [1] => 5 [2] => 371.13 ) 
+	[2] => Array ( [0] => Action [1] => 6 [2] => 681.40 ) 
+	[3] => Array ( [0] => Action [1] => 7 [2] => 1804.36 ) [4] => Array ( [0] => Action [1] => 8 [2] => 1463.16 ) [5] => Array ( [0] => Animation [1] => 2 [2] => 66.75 ) [6] => Array ( [0] => Animation [1] => 5 [2] => 289.26 ) [7] => Array ( [0] => Animation [1] => 6 [2] => 691.26 ) [8] => Array ( [0] => Animation [1] => 7 [2] => 1954.11 ) [9] => Array ( [0] => Animation [1] => 8 [2] => 1654.92 ) [10] => Array ( [0] => Children [1] => 2 [2] => 15.94 ) [11] => Array ( [0] => Children [1] => 5 [2] => 288.29 ) [12] => Array ( [0] => Children [1] => 6 [2] => 495.70 ) [13] => Array ( [0] => Children [1] => 7 [2] => 1539.94 ) [14] => Array ( [0] => Children [1] => 8 [2] => 1315.68 ) [15] => Array ( [0] => Classics [1] => 2 [2] => 24.89 ) [16] => Array ( [0] => Classics [1] => 5 [2] => 227.38 ) [17] => Array ( [0] => Classics [1] => 6 [2] => 518.64 ) [18] => Array ( [0] => Classics [1] => 7 [2] => 1497.16 ) [19] => Array ( [0] => Classics [1] => 8 [2] => 1371.52 ) [20] => Array ( [0] => Comedy [1] => 2 [2] => 25.90 ) [21] => Array ( [0] => Comedy [1] => 5 [2] => 295.28 ) [22] => Array ( [0] => Comedy [1] => 6 [2] => 639.65 ) [23] => Array ( [0] => Comedy [1] => 7 [2] => 1829.17 ) [24] => Array ( [0] => Comedy [1] => 8 [2] => 1593.58 ) 
